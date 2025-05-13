@@ -1,0 +1,51 @@
+[
+  {
+    "name": "FURIA - KnowYourFan",
+    "language": "Python, Streamlit, SQLite3, Pytesseract (OCR) & Pillow (PIL)",
+    "updated_at": "Apr 26, 2025",
+    "url": "https://github.com/CaioVenxncio/KnowYourFan",
+    "description": "Aplicativo em Streamlit para cadastro, validação via OCR e gestão de fãs de e-sports, com painel seguro e deploy 100% stand-alone."
+  },
+  {
+    "name": "FURIA - Connect",
+    "language": "JavaScript & LocalStorage API",
+    "updated_at": "Apr 25, 2025",
+    "url": "https://github.com/CaioVenxncio/FURIAConnect",
+    "description": "App web front-end para cadastro de fãs, gestão de perfil e acesso à loja FURIA, usando HTML, CSS, JS e LocalStorage."
+  },
+  {
+    "name": "FURIA - FanBot",
+    "language": "JavaScript, Node.js, Axios & OpenRouter (GPT-3.5-turbo)",
+    "updated_at": "Apr 24, 2025",
+    "url": "https://github.com/CaioVenxncio/FuriaFanBot",
+    "description": "Chatbot interativo para fãs da FURIA Esports em CS:GO, usando OpenRouter (GPT-3.5-turbo) com front-end estático e funções serverless no Vercel."
+  },
+  {
+    "name": "Music Player",
+    "language": "JavaScript",
+    "updated_at": "Feb 24, 2025",
+    "url": "https://github.com/CaioVenxncio/musicplayer",
+    "description": "Player de música em HTML, CSS e JavaScript com suporte a MP3, controles de reprodução e interface responsiva."
+  },
+  {
+    "name": "To Do List",
+    "language": "Python",
+    "updated_at": "Feb 18, 2025",
+    "url": "https://github.com/CaioVenxncio/todolist",
+    "description": "Aplicação em Python com Flet e SQLite3 para criar, gerenciar e organizar tarefas com interface gráfica simples e intuitiva."
+  },
+  {
+    "name": "Apple Vision Pro Clone",
+    "language": "JavaScript",
+    "updated_at": "Oct 6, 2024",
+    "url": "https://github.com/CaioVenxncio/applevisionproclone",
+    "description": "Clone do site da Apple Vision Pro feito em HTML, CSS e JavaScript, com páginas de produto, especificações, depoimentos e formulário de contato."
+  },
+  {
+    "name": "Mahindra Racing - Sprint 3",
+    "language": "HTML & CSS",
+    "updated_at": "Sep 29, 2024",
+    "url": "https://github.com/CaioVenxncio/mahindrafrontsprint3",
+    "description": "Site institucional em HTML e CSS desenvolvido para promover a Fórmula E e a Mahindra Racing no Brasil, com informações, notícias, calendário e galeria de imagens."
+  }
+]

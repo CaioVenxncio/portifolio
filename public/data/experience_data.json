@@ -1,0 +1,64 @@
+[
+    {
+        "companyId": 0,
+        "companyName": "The Cartel Esports",
+        "companyUsername": "",
+        "companyURL": "",
+        "companyLogo": "",
+        "companyIndustry": "",
+        "companyStaffCountRange": "",
+        "title": "Gerente Geral",
+        "multiLocaleTitle": {
+            "en_US": "Gerente Geral",
+            "pt_BR": "Gerente Geral"
+        },
+        "multiLocaleCompanyName": {
+            "en_US": "The Cartel Esports",
+            "pt_BR": "The Cartel Esports"
+        },
+        "location": "Hamburgo, Alemanha",
+        "description": "Como Gerente Geral da organização alemã TheCartel Esports, fui responsável por liderar e coordenar todas as operações da equipe, incluindo aquisição e retenção de talentos, desenvolvimento de estratégias de jogo e gestão de recursos financeiros. Durante minha gestão, a equipe conquistou diversos títulos e atingiu um alto nível de performance competitiva, culminando no reconhecimento como a melhor organização da América do Sul em 2021. Minhas responsabilidades também incluíam a criação e implementação de estratégias de marketing e comunicação para aumentar o engajamento da comunidade e expandir a marca da organização. Minha experiência na TheCartel Esports me proporcionou aprendizados valiosos em liderança, gestão de equipes e operações no cenário competitivo de esports.",
+        "employmentType": "Tempo integral",
+        "start": {
+            "year": 2021,
+            "month": 3,
+            "day": 0
+        },
+        "end": {
+            "year": 2022,
+            "month": 2,
+            "day": 0
+        }
+    },
+    {
+        "companyId": 0,
+        "companyName": "Laetus Gaming",
+        "companyUsername": "",
+        "companyURL": "",
+        "companyLogo": "",
+        "companyIndustry": "",
+        "companyStaffCountRange": "",
+        "title": "Gerente Geral",
+        "multiLocaleTitle": {
+            "en_US": "Gerente Geral",
+            "pt_BR": "Gerente Geral"
+        },
+        "multiLocaleCompanyName": {
+            "en_US": "Laetus Gaming",
+            "pt_BR": "Laetus Gaming"
+        },
+        "location": "S\u00e3o Paulo, Brasil",
+        "description": "Na Laetus Gaming, tive meu primeiro contato profissional com o cenário de esports, o que despertou meu interesse e vontade de aprender mais sobre esse mercado em constante evolução. Durante meu período na organização, tive a oportunidade de participar diretamente do processo de rebranding da marca, anteriormente conhecida como Wanted Esports. Essa experiência me proporcionou uma compreensão mais aprofundada do mercado, especialmente sob a ótica da publicidade, e contribuiu de forma significativa para o meu desenvolvimento profissional. A Laetus Gaming me permitiu mergulhar no mercado de esports no Brasil, ampliando meu conhecimento e consolidando minha paixão por esse setor em crescimento.",
+        "employmentType": "Tempo integral",
+        "start": {
+            "year": 2020,
+            "month": 4,
+            "day": 0
+        },
+        "end": {
+            "year": 2021,
+            "month": 2,
+            "day": 0
+        }
+    }
+]

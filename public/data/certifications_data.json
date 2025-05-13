@@ -1,0 +1,200 @@
+[
+    {
+        "name": "JavaScript\u200b: utilizando tipos, vari\u00e1veis e fun\u00e7\u00f5es",
+        "start": {
+            "year": 2025,
+            "month": 5,
+            "day": 0
+        },
+        "end": {
+            "year": 0,
+            "month": 0,
+            "day": 0
+        },
+        "authority": "Alura",
+        "company": {
+            "name": "Alura",
+            "universalName": "aluracursos",
+            "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEZkMsv5FwbDA/company-logo_200_200/company-logo_200_200/0/1710187635900/aluracursos_logo?e=1752710400&v=beta&t=HZpvA9HMof-D8WOUethP7e4iAlUyw3RKzUiJsTUfHTU",
+            "staffCountRange": {},
+            "headquarter": {}
+        },
+        "timePeriod": {
+            "start": {
+                "year": 0,
+                "month": 0,
+                "day": 0
+            },
+            "end": {
+                "year": 0,
+                "month": 0,
+                "day": 0
+            }
+        }
+    },
+    {
+        "name": "Python: aplicando a Orienta\u00e7\u00e3o a Objetos",
+        "start": {
+            "year": 2025,
+            "month": 5,
+            "day": 0
+        },
+        "end": {
+            "year": 0,
+            "month": 0,
+            "day": 0
+        },
+        "authority": "Alura",
+        "company": {
+            "name": "Alura",
+            "universalName": "aluracursos",
+            "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEZkMsv5FwbDA/company-logo_200_200/company-logo_200_200/0/1710187635900/aluracursos_logo?e=1752710400&v=beta&t=HZpvA9HMof-D8WOUethP7e4iAlUyw3RKzUiJsTUfHTU",
+            "staffCountRange": {},
+            "headquarter": {}
+        },
+        "timePeriod": {
+            "start": {
+                "year": 0,
+                "month": 0,
+                "day": 0
+            },
+            "end": {
+                "year": 0,
+                "month": 0,
+                "day": 0
+            }
+        }
+    },
+    {
+        "name": "Business Administration Specialist",
+        "start": {
+            "year": 2025,
+            "month": 4,
+            "day": 0
+        },
+        "end": {
+            "year": 0,
+            "month": 0,
+            "day": 0
+        },
+        "authority": "Salesforce Trailhead Superbadges",
+        "company": {
+            "name": "Salesforce Trailhead Superbadges",
+            "universalName": "salesforce-trailhead-superbadges",
+            "logo": "https://media.licdn.com/dms/image/v2/C510BAQFEj8y-jnltKg/company-logo_200_200/company-logo_200_200/0/1631376655870?e=1752710400&v=beta&t=6sj3dDizSb_xqRuqr6oQ8RcjWMlutoeSDREhHx-WRno",
+            "staffCountRange": {},
+            "headquarter": {}
+        },
+        "timePeriod": {
+            "start": {
+                "year": 0,
+                "month": 0,
+                "day": 0
+            },
+            "end": {
+                "year": 0,
+                "month": 0,
+                "day": 0
+            }
+        }
+    },
+    {
+        "name": "Ranger",
+        "start": {
+            "year": 2025,
+            "month": 4,
+            "day": 0
+        },
+        "end": {
+            "year": 0,
+            "month": 0,
+            "day": 0
+        },
+        "authority": "Trailhead",
+        "company": {
+            "name": "Trailhead",
+            "universalName": "salesforce-trailhead",
+            "logo": "https://media.licdn.com/dms/image/v2/C560BAQGXS7-SEokjig/company-logo_200_200/company-logo_200_200/0/1630657145914/salesforce_trailhead_logo?e=1752710400&v=beta&t=Oc2xruVg1R2f63zcujRk6Sqoa2T9x0UbWAeuTHlYdGo",
+            "staffCountRange": {},
+            "headquarter": {}
+        },
+        "timePeriod": {
+            "start": {
+                "year": 0,
+                "month": 0,
+                "day": 0
+            },
+            "end": {
+                "year": 0,
+                "month": 0,
+                "day": 0
+            }
+        }
+    },
+    {
+        "name": "Certificado oficial EF SET (B2 Independente)",
+        "start": {
+            "year": 2025,
+            "month": 2,
+            "day": 0
+        },
+        "end": {
+            "year": 0,
+            "month": 0,
+            "day": 0
+        },
+        "authority": "EF SET",
+        "company": {
+            "name": "EF SET",
+            "universalName": "efset",
+            "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFLraHojJVQhA/company-logo_200_200/company-logo_200_200/0/1728915497369/efset_logo?e=1752710400&v=beta&t=323mv9SOQtAhSVyqXvXqeVZUMnE_46QMlPukfoAiGTs",
+            "staffCountRange": {},
+            "headquarter": {}
+        },
+        "timePeriod": {
+            "start": {
+                "year": 0,
+                "month": 0,
+                "day": 0
+            },
+            "end": {
+                "year": 0,
+                "month": 0,
+                "day": 0
+            }
+        }
+    },
+    {
+        "name": "JavaScript\u200b: programando a Orienta\u00e7\u00e3o a Objetos",
+        "start": {
+            "year": 2025,
+            "month": 2,
+            "day": 0
+        },
+        "end": {
+            "year": 0,
+            "month": 0,
+            "day": 0
+        },
+        "authority": "Alura",
+        "company": {
+            "name": "Alura",
+            "universalName": "aluracursos",
+            "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEZkMsv5FwbDA/company-logo_200_200/company-logo_200_200/0/1710187635900/aluracursos_logo?e=1752710400&v=beta&t=HZpvA9HMof-D8WOUethP7e4iAlUyw3RKzUiJsTUfHTU",
+            "staffCountRange": {},
+            "headquarter": {}
+        },
+        "timePeriod": {
+            "start": {
+                "year": 0,
+                "month": 0,
+                "day": 0
+            },
+            "end": {
+                "year": 0,
+                "month": 0,
+                "day": 0
+            }
+        }
+    }
+]
